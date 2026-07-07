@@ -1,0 +1,37 @@
+[
+  {
+    "code": "1006",
+    "name": "Government Polytechnic, Murtijapur",
+    "status": "Government",
+    "courses": [
+      {
+        "branchName": "Civil Engineering",
+        "cutOffs": [
+          { "capRound": 3, "seatType": "NGOPENH", "stage": "Stage-I", "meritPercentage": 86.20 },
+          { "capRound": 3, "seatType": "NGOBCH", "stage": "Stage-I", "meritPercentage": 79.20 }
+        ]
+      },
+      {
+        "branchName": "Computer Engineering",
+        "cutOffs": [
+          { "capRound": 3, "seatType": "NGOPENO", "stage": "Stage-I", "meritPercentage": 92.80 },
+          { "capRound": 3, "seatType": "NLOBCO", "stage": "Stage-I", "meritPercentage": 90.60 }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "1008",
+    "name": "Government Polytechnic, Amravati",
+    "status": "Government-Autonomous",
+    "courses": [
+      {
+        "branchName": "Plastic and Polymer Engineering",
+        "cutOffs": [
+          { "capRound": 3, "seatType": "NGOPENS", "stage": "Stage-I", "meritPercentage": 71.60 },
+          { "capRound": 3, "seatType": "NLOPENS", "stage": "Stage-I", "meritPercentage": 69.80 }
+        ]
+      }
+    ]
+  }
+]
